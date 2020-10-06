@@ -5,6 +5,9 @@ kheer
 pasta
 pizza
 
+Sandwich
+paneer
+
 
 
 thank you
